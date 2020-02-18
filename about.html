@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Twitter Sentimentsl analysis</title>
+<style type="text/css">
+*{
+  margin: 0px; padding: 0px;
+}
+body{
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 1.4705;
+  letter-spacing: -0.02em;
+  color: #333;
+  font-style: normal;
+  font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.nav-bg{
+  background: #d5a021;
+}
+.container{
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 1200px)
+{
+  .container{
+    max-width: 1140px;
+  }
+}
+.site-logo{
+  font-family: Optima, sans-serif;
+  font-size: 35px;
+  font-weight: 100;
+  font-variant: small-caps;
+  color: #004385;
+  margin: 10px 30px 10px 0;
+}
+#nav-wrap ul{
+  list-style: none;
+  position: relative;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+#nav-wrap ul li{
+  position: relative;
+  display: flex;
+  marign: 0;
+  padding: 0;
+  padding-top: 15px;
+}
+#nav-wrap ul a{
+  display: block;
+  text-decoration: none;
+  color: #333;
+  line-height: 32px;
+  padding: 0 15px;
+}
+.active{
+  background: #f6f6f6;
+  font-weight: 600;
+}
+#nav-wrap ul li:hover{
+  background: #f6f6f6;
+  font-weight: 600;
+}
+#nav-wrap ul ul{
+  padding: 0;
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #f6f6f6;
+}
+#nav-wrap ul ul li{
+  width: 150px;
+}
+#nav-wrap ul ul ul{
+  top: 0;
+  left: 100%;
+  border-left: 1px solid #262626;
+}
+#nav-wrap ul li:hover>ul{
+  display: block;
+  font-weight: normal;
+}
+.search-box{
+  display: flex;
+  position: relative;
+  margin-left: auto;
+  height: 20px;
+  margin-top: 15px;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+}
+</style>
+</head>
+
+<body>
+<div class="container-fluid nav-bg">
+  <div class="container">
+    <nav id="nav-wrap">
+      <ul>
+      <p class="site-logo">S.a.f.e.</p>
+      <li class="active">
+      <a href="{{ url_for('home') }}"></i>Home</a>
+      </li>
+      <li><a href= "{{ url_for('tech') }}">Tech Talk</a></li>
+      <li><a href= "{{ url_for('about') }}">About us</a></li>
+<li style="width:60%; "><a>Specification Search</a><script>
+  (function() {
+    var cx = '014435659586236833006:t0wafujdjxw';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></li>    </ul>
+    </nav>
+  </div>
+</div>
+
+<div style="position:relative;width:100%;">
+<center>
+<br>
+<h1 style="color: red;"> ABOUT US </h1><br>
+	<h2>What is S.A.F.E.?</h2><br>
+	<p>S.A.F.E. allows you to discover the sentiment of a brand, product, or any 	        electronic device on Twitter.</p><br>
+	<h2>How does this work?</h2><br>
+	<p>You can read about our approach in our technical report: Twitter Sentiment 	        Classification using Distant Supervision.</p><br>
+	<h2>How is this different?</h2><br>
+	<p>Our approach is different from other sentiment analysis sites because:<ul>
+	<li>we uses limiters and restrictions which allows us to provide more relevant tweets         about the required subjct.</li>
+	<li>We provide transparency for the classification results of individual tweets. </li>
+	</p><br>
+	<h2>Who created this?</h2><br>
+	<p>S.A.F.E. was created by Siddharth Anvekar, Swapnil Udand, Vivek Dubey and
+        Sunaina Jain who were Computer Science students at C.D.G.I.</p><br>
+</center>
+</div>
+	
+<section class="Tech_Talk" id="Tech Talk"></section>
+<section class="About us" id="About us"></section>
+
+</body>
+</html>
