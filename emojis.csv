@@ -1,0 +1,89 @@
+Unicode,Bytes,Description,Sentiment
+U+1F601,\xF0\x9F\x98\x81,grinning face with smiling eyes,1
+U+1F602,\xF0\x9F\x98\x82,face with tears of joy,1
+U+1F603,\xF0\x9F\x98\x83,smiling face with open mouth,1
+U+1F604,\xF0\x9F\x98\x84,smiling face with open mouth and smiling eyes,1
+U+1F609,\xF0\x9F\x98\x89,winking face,1
+U+1F60A,\xF0\x9F\x98\x8A,smiling face with smiling eyes,1
+U+1F60D,\xF0\x9F\x98\x8D,smiling face with heart-shaped eyes,1
+U+1F60F,\xF0\x9F\x98\x8F,smirking face,1
+U+1F613,\xF0\x9F\x98\x93,face with cold sweat,-1
+U+1F614,\xF0\x9F\x98\x94,pensive face,-1
+U+1F616,\xF0\x9F\x98\x96,confounded face,-1
+U+1F618,\xF0\x9F\x98\x98,face throwing a kiss,1
+U+1F61A,\xF0\x9F\x98\x9A,kissing face with closed eyes,1
+U+1F61C,\xF0\x9F\x98\x9C,face with stuck-out tongue and winking eye,1
+U+1F61D,\xF0\x9F\x98\x9D,face with stuck-out tongue and tightly-closed eyes,1
+U+1F61E,\xF0\x9F\x98\x9E,disappointed face,-1
+U+1F620,\xF0\x9F\x98\xA0,angry face,-1
+U+1F622,\xF0\x9F\x98\xA2,crying face,-1
+U+1F623,\xF0\x9F\x98\xA3,persevering face,-1
+U+1F624,\xF0\x9F\x98\xA4,face with look of triumph,1
+U+1F625,\xF0\x9F\x98\xA5,disappointed but relieved face,-1
+U+1F628,\xF0\x9F\x98\xA8,fearful face,-1
+U+1F629,\xF0\x9F\x98\xA9,weary face,-1
+U+1F62D,\xF0\x9F\x98\xAD,loudly crying face,-1
+U+1F630,\xF0\x9F\x98\xB0,face with open mouth and cold sweat,-1
+U+1F631,\xF0\x9F\x98\xB1,face screaming in fear,-1
+U+1F632,\xF0\x9F\x98\xB2,astonished face,1
+U+1F633,\xF0\x9F\x98\xB3,flushed face,-1
+U+1F635,\xF0\x9F\x98\xB5,dizzy face,-1
+U+1F637,\xF0\x9F\x98\xB7,face with medical mask,-1
+U+1F638,\xF0\x9F\x98\xB8,grinning cat face with smiling eyes,1
+U+1F639,\xF0\x9F\x98\xB9,cat face with tears of joy,1
+U+1F63A,\xF0\x9F\x98\xBA,smiling cat face with open mouth,1
+U+1F63B,\xF0\x9F\x98\xBB,smiling cat face with heart-shaped eyes,1
+U+1F63C,\xF0\x9F\x98\xBC,cat face with wry smile,1
+U+1F63D,\xF0\x9F\x98\xBD,kissing cat face with closed eyes,1
+U+1F63E,\xF0\x9F\x98\xBE,pouting cat face,1
+U+1F63F,\xF0\x9F\x98\xBF,crying cat face,-1
+U+1F640,\xF0\x9F\x99\x80,weary cat face,-1
+U+1F645,\xF0\x9F\x99\x85,face with no good gesture,-1
+U+1F646,\xF0\x9F\x99\x86,face with ok gesture,1
+U+1F647,\xF0\x9F\x99\x87,person bowing deeply,1
+U+1F648,\xF0\x9F\x99\x88,see-no-evil monkey,1
+U+1F649,\xF0\x9F\x99\x89,hear-no-evil monkey,1
+U+1F64A,\xF0\x9F\x99\x8A,speak-no-evil monkey,1
+U+1F64B,\xF0\x9F\x99\x8B,happy person raising one hand,1
+U+1F64C,\xF0\x9F\x99\x8C,person raising both hands in celebration,1
+U+1F64D,\xF0\x9F\x99\x8D,person frowning,-1
+U+1F64E,\xF0\x9F\x99\x8E,person with pouting face,1
+U+1F64F,\xF0\x9F\x99\x8F,person with folded hands,-1
+U+2702,\xE2\x9C\x82,black scissors,-1
+U+2705,\xE2\x9C\x85,white heavy check mark,1
+U+2708,\xE2\x9C\x88,airplane,1
+U+2709,\xE2\x9C\x89,envelope,1
+U+270A,\xE2\x9C\x8A,raised fist,-1
+U+270B,\xE2\x9C\x8B,raised hand,1
+U+270C,\xE2\x9C\x8C,victory hand,1
+U+270F,\xE2\x9C\x8F,pencil,0
+U+2712,\xE2\x9C\x92,black nib,0
+U+2714,\xE2\x9C\x94,heavy check mark,1
+U+2716,\xE2\x9C\x96,heavy multiplication x,1
+U+2728,\xE2\x9C\xA8,sparkles,1
+U+2733,\xE2\x9C\xB3,eight spoked asterisk,0
+U+2734,\xE2\x9C\xB4,eight pointed black star,0
+U+2744,\xE2\x9D\x84,snowflake,0
+U+2747,\xE2\x9D\x87,sparkle,1
+U+274C,\xE2\x9D\x8C,cross mark,-1
+U+274E,\xE2\x9D\x8E,negative squared cross mark,-1
+U+2753,\xE2\x9D\x93,black question mark ornament,0
+U+2754,\xE2\x9D\x94,white question mark ornament,0
+U+2755,\xE2\x9D\x95,white exclamation mark ornament,1
+U+2757,\xE2\x9D\x97,heavy exclamation mark symbol,1
+U+2764,\xE2\x9D\xA4,heavy black heart,1
+U+2795,\xE2\x9E\x95,heavy plus sign,1
+U+2796,\xE2\x9E\x96,heavy minus sign,1
+U+2797,\xE2\x9E\x97,heavy division sign,1
+U+27A1,\xE2\x9E\xA1,black rightwards arrow,1
+U+27B0,\xE2\x9E\xB0,curly loop,1
+U+1F6A8,\xF0\x9F\x9A\xA8,police cars revolving light,1
+U+1F6A9,\xF0\x9F\x9A\xA9,triangular flag on post,1
+U+1F6AA,\xF0\x9F\x9A\xAA,door,0
+U+1F6AB,\xF0\x9F\x9A\xAB,no entry sign,-1
+U+1F6AC,\xF0\x9F\x9A\xAC,smoking symbol,-1
+U+1F6AD,\xF0\x9F\x9A\xAD,no smoking symbol,-1
+U+1F6B2,\xF0\x9F\x9A\xB2,bicycle,0
+U+1F6B6,\xF0\x9F\x9A\xB6,pedestrian,0
+U+1F6B9,\xF0\x9F\x9A\xB9,mens symbol,0
+U+1F6BA,\xF0\x9F\x9A\xBA,womens symbol,0
